@@ -1,0 +1,6 @@
+.env
+*.pdf
+client_secret*.json
+credentials.json
+__pycache__/
+*.pyc
